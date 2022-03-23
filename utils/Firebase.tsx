@@ -24,13 +24,13 @@ link: https://console.firebase.google.com/u/1/project/mauro-a9ce3/authentication
 */
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCPLWNQjIJr0VJb7HG_VNpLjMblWoGzhPM",
-  authDomain: "mauro-traiteur.firebaseapp.com",
-  databaseURL: "https://mauro-traiteur-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "mauro-traiteur",
-  storageBucket: "mauro-traiteur.appspot.com",
-  messagingSenderId: "217560188010",
-  appId: "1:217560188010:web:089651f3783be95e3ff613"
+apiKey: "AIzaSyD14JBM7csz0gcQpuj_wlMI65JIe_DjI5E",
+  authDomain: "mauro-interview.firebaseapp.com",
+  databaseURL: "https://mauro-interview-default-rtdb.firebaseio.com",
+  projectId: "mauro-interview",
+  storageBucket: "mauro-interview.appspot.com",
+  messagingSenderId: "154608618579",
+  appId: "1:154608618579:web:c0a4268995f1e743d58aa6"
 };
 
 const googleMapsAPIKey = "";
