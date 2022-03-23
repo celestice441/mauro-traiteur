@@ -24,19 +24,18 @@ link: https://console.firebase.google.com/u/1/project/mauro-a9ce3/authentication
 */
 
 const firebaseConfig = {
- apiKey: "AIzaSyCPLWNQjIJr0VJb7HG_VNpLjMblWoGzhPM",
+  apiKey: "AIzaSyBYkKLM5Pby3wSzKPveNMvU6fdntCOktxs",
 
-  authDomain: "mauro-traiteur.firebaseapp.com",
+  authDomain: "mauro-77ebe.firebaseapp.com",
 
-  databaseURL: "https://mauro-traiteur-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "mauro-77ebe",
 
-  projectId: "mauro-traiteur",
+  storageBucket: "mauro-77ebe.appspot.com",
 
-  storageBucket: "mauro-traiteur.appspot.com",
+  messagingSenderId: "439725175650",
 
-  messagingSenderId: "217560188010",
+  appId: "1:439725175650:web:68b8819deeaaaaf546323b"
 
-  appId: "1:217560188010:web:089651f3783be95e3ff613"
 
 };
 
